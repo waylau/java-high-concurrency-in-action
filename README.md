@@ -1,2 +1,2 @@
-# java-high-concurrency-in-action
+# Java High Concurrency in Action. Java高并发原理与实战
 java-high-concurrency-in-action
